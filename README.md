@@ -14,3 +14,13 @@ I learned how to properly review HTML and CSS code as well as consolidate CSS co
 
 ## What makes my project stand out
 My project is unique in that the website retains the exact same appearance with the refactored code as it did starting out. I also commented when a CSS selector(s) would begin above every CSS selector in the style sheet, to make it as readable as possible for other programmers and developers to find when a selector begin.
+
+## Website Preview
+![Top of Horiseon website](assets/images/Horiseon-screenshot-1.png)
+
+![Middle of Horiseon website](assets/images/Horiseon-screenshot-2.png)
+
+![Bottom of Horiseon website](assets/images/Horiseon-screenshot-3.png)
+
+## Link to live version
+Visit Horiseon's website [here](https://zachary-levin.github.io/Horiseon-Code-Refactor/)
